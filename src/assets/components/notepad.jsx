@@ -1,4 +1,4 @@
-import "notepad.css"
+import "./notepad.css"
 import { useState, useEffect } from "react";
 
 
